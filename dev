@@ -1,0 +1,9 @@
+#!/bin/sh
+
+obsbuidl lib.py 3
+rm lvl2.py
+rm llmzipskgk.zip
+zip llmzipskgk.zip keys_skygate.xlsx lib_obfs.py main.py README.md requirements.txt ./cache/*
+
+
+python3 main.py

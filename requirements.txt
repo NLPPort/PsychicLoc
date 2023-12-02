@@ -1,0 +1,5 @@
+pyrandonaut==0.1.9
+Faker==20.1.0
+SciPy==1.11.4
+geopy==2.4.1
+randonautentropy==1.0.2
